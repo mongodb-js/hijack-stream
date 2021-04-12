@@ -18,4 +18,4 @@ Because `read `does not work inside a Node.js REPL.
 
 ## LICENSE
 
-MIT
+Apache-2.0
